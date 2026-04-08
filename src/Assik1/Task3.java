@@ -1,3 +1,5 @@
+package Assik1;
+
 import java.util.Scanner;
 public class Task3 {
 
